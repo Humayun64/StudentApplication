@@ -241,7 +241,7 @@ body {
 
 .position-center {
   position: absolute;
-  top: 50%;
+  top: 10%;
   left: 50%;
   transform: translate(-50%, -50%);
   -moz-transform: translate(-50%, -50%);
@@ -250,7 +250,7 @@ body {
   -ms-transform: translate(-50%, -50%); }
 
 .signup {
-  margin-bottom: 150px; }
+  margin-bottom: 15px; }
 
 .signup-content {
   padding: 75px 0; }
@@ -266,7 +266,7 @@ body {
   margin-bottom: 33px; }
 
 .signup-image {
-  margin-top: 45px; }
+  margin-top: 15px; }
 
 figure {
   margin-bottom: 50px;
